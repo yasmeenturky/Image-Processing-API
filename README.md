@@ -16,7 +16,7 @@ The api allows image resizing with the required width and height.
 ```http://localhost:3000/resize/?fileName=FILENAME&width=WIDTH&height=HEIGHT```
 
 ## Build
-build the api using build script```npm run build ```  return
+build the api using build script```npm run build ```  <br>
 start the server using start script ```npm run start```
 
 
