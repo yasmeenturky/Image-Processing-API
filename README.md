@@ -17,7 +17,7 @@ The api allows image resizing with the required width and height.
 
 ## Build
 build the api using build script```npm run build ```
-start the server using start script ```npm run server```
+start the server using start script ```npm run start```
 
 
 ## Tests
